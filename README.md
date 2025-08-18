@@ -14,16 +14,9 @@ Ich bin eine leidenschaftliche Entwicklerin und Designerin mit einem besonderen 
 
 🛠️ Mein Tech Stack
 
-graph TD
-    A[Fokus] --> B(Frontend-Entwicklung)
-    A --> C(UI/UX Design)
-    A --> D(Corporate & Motion Design)
-    B --> E(HTML/CSS)
-    B --> F(JavaScript)
-    F --> G(React)
-    B --> H(Node.js für Backend-Integration)
-    C --> I(Figma/Adobe Creative Suite)
-    D --> J(Adobe Creative Suite)
-    K[Tools & Versionierung] --> L(Git)
-    K --> M(VSC)
-    K --> N(GitHub)
+### 🛠️ Mein Tech Stack & Fähigkeiten
+
+- **Frontend-Entwicklung:** HTML5, CSS3, JavaScript, React
+- **Backend-Entwicklung:** Node.js
+- **Design:** UI/UX Design (Figma), Corporate & Motion Design (Adobe Creative Suite)
+- **Tools & Versionierung:** Git, GitHub, Visual Studio Code
