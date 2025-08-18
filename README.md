@@ -1,4 +1,4 @@
-👋 Hi, I'm Irina Eppinger!
+👋 Hi, I'm Irina!
 💻 Fachinformatikerin (Anwendungsentwicklung) | 🎨 Grafik- & UI/UX Designerin
 
 🚀 Über mich
