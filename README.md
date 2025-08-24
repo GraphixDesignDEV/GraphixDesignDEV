@@ -37,6 +37,6 @@ Umschulung zur Fachinformatikerin @ GFN (Nürnberg)
 ## 📫 Kontakt  
 📧 irina.eppinger.web@gmail.com  
 🌐 [Portfolio](https://www.graphix-design.wtf)  
-https://web2.demo.libibit.de/irina_portfolio.html
+
 
 > *"Ich verbinde pixelperfektes Design mit cleanem Code – für digitale Erlebnisse, die begeistern."*  
