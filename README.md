@@ -35,7 +35,7 @@ Umschulung zur Fachinformatikerin @ GFN (Nürnberg)
 - [Open-Source-Editor](https://www.graphix-design.wtf) - Custom Coding Environment  
 
 ## 📫 Kontakt  
-📧 design.irina@icloud.com  
+📧 irina.eppinger.web@gmail.com  
 🌐 [Portfolio](https://www.graphix-design.wtf)  
 
 > *"Ich verbinde pixelperfektes Design mit cleanem Code – für digitale Erlebnisse, die begeistern."*  
